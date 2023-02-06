@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import image from '../assets/disneyLogo.png'
 import Btn from './Btn'
 
