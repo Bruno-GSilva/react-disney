@@ -10,7 +10,7 @@ import image8 from '../assets/image9.png'
 
 export default function templateGrid() {
     return (
-        <div className="grid grid-cols-3 gap-6 p-10">
+        <div className="grid grid-cols-3 gap-6 px-20 py-6">
                 <img src={image} className='rounded-sizebtn'></img>
                 <img src={image1} className='rounded-sizebtn'></img>
                 <img src={image2} className='rounded-sizebtn'></img>
